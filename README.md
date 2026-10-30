@@ -119,7 +119,7 @@ Fica à vontade para entrar em contacto:
 
 ## 📄 Licença
 
-Este projeto está licenciado sob os termos da **Licença MIT**.  
+Este projecto está licenciado sob os termos da **Licença MIT**.  
 Você pode visualizar o texto completo da licença no arquivo:
 
 👉 **[Ver Licença MIT](./LICENSE)**
