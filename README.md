@@ -1,4 +1,4 @@
-# IPDDF — Website Institucional
+# IPDDF - Website Institucional
 
 ## 📌 Sobre o Projecto
 
@@ -28,9 +28,9 @@ Aplicar conhecimentos de desenvolvimento front-end na criação de um website in
 
 ## 🛠 Tecnologias Utilizadas
 
-- **HTML5** — estrutura das páginas.
-- **CSS3** — estilos e responsividade.
-- **JavaScript** — interactividade e controlo dos carrosséis.
+- **HTML5** - estrutura das páginas.
+- **CSS3** - estilos e responsividade.
+- **JavaScript** - interactividade e controlo dos carrosséis.
 
 ---
 
@@ -53,7 +53,7 @@ Para visualizar o website, basta ter um navegador moderno, como Chrome, Edge ou 
 
 Para explorar e editar o código, recomenda-se:
 
-### ✔ 1. Git — opcional
+### ✔ 1. Git - opcional
 
 Necessário para clonar o repositório. Também podes descarregar o projecto em formato ZIP.
 
@@ -65,7 +65,7 @@ Necessário para clonar o repositório. Também podes descarregar o projecto em 
 
 Extensão útil:
 
-- **Live Server** — permite executar o website localmente e actualizar a página durante o desenvolvimento.
+- **Live Server** - permite executar o website localmente e actualizar a página durante o desenvolvimento.
 
 ### ✔ 3. Navegador Moderno
 
