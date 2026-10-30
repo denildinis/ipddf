@@ -1,0 +1,29 @@
+@import url("../fonts/fonts.css");
+
+:root {
+  --color-primary: #f8a712;
+  --color-primary-light: #fdc848;
+  --color-primary-dark: #e4b440;
+  --color-secondary: #02145e;
+  --color-secondary-light: #0d2d52;
+  --color-bg-light: #ffffff;
+  --color-bg-grey: #f9f9f9;
+  --color-shadow: rgba(0, 0, 0, 0.05);
+  --color-shadow-strong: rgba(0, 0, 0, 0.5);
+  --color-shadow-medium: rgba(0, 0, 0, 0.2);
+
+  --font-main: "Montserrat", sans-serif;
+
+  --font-size-xs: 0.9rem;
+  --font-size-sm: 1rem;
+  --font-size-rg: clamp(1rem, 1vw, 1.2rem);
+  --font-size-md: 1.1rem;
+  --font-size-lg: 1.2rem;
+  --font-size-xl: 1.25rem;
+  --font-size-xxl: 1.5rem;
+  --font-size-title: 2.5rem;
+  --font-size-hero: 3.5rem;
+  --font-size-cta: 2.8rem;
+  --font-size-visit: 3rem;
+
+}
