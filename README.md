@@ -110,8 +110,6 @@ Abre o ficheiro HTML principal no navegador e utiliza o menu para explorar as p�
 
 ## 📬 Contacto
 
-Desenvolvido por **Denil Dinis**.
-
 Fica à vontade para entrar em contacto:
 
 - 📧 **Email:** [denildinis1@gmail.com](mailto:denildinis1@gmail.com)
