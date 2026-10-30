@@ -1,6 +1,6 @@
 # IPDDF — Website Institucional
 
-## 📌 Sobre o Projeto
+## 📌 Sobre o Projecto
 
 Website institucional desenvolvido como caso de estudo para o Instituto Politécnico Dom Damião Franklin, uma instituição de ensino médio. O projecto apresenta informações sobre a escola, os cursos, as instalações e os contactos.
 
@@ -8,13 +8,13 @@ Website institucional desenvolvido como caso de estudo para o Instituto Politéc
 
 ---
 
-## Objectivo
+## 🎯 Objectivo
 
 Aplicar conhecimentos de desenvolvimento front-end na criação de um website institucional, com foco na organização dos conteúdos, na identidade visual e na adaptação a diferentes tamanhos de ecrã.
 
 ---
 
-## Páginas e secções
+## 📱 Páginas e Secções
 
 - Início
 - Sobre nós
@@ -28,13 +28,13 @@ Aplicar conhecimentos de desenvolvimento front-end na criação de um website in
 
 ## 🛠 Tecnologias Utilizadas
 
-- **HTML5** - estrutura das páginas.
-- **CSS3** - estilos e responsividade.
-- **JavaScript** - interactividade e controlo dos carrosséis.
+- **HTML5** — estrutura das páginas.
+- **CSS3** — estilos e responsividade.
+- **JavaScript** — interactividade e controlo dos carrosséis.
 
 ---
 
-## Aprendizagens
+## 📚 Aprendizagens
 
 Este projecto permitiu aprofundar conhecimentos em:
 
@@ -49,36 +49,73 @@ Este projecto permitiu aprofundar conhecimentos em:
 
 ## 🧰 Pré-requisitos
 
-Antes de executar o projeto, instale as seguintes ferramentas:
+Para visualizar o website, basta ter um navegador moderno, como Chrome, Edge ou Firefox.
 
-### ✔ 1. Git  
-https://git-scm.com  
+Para explorar e editar o código, recomenda-se:
+
+### ✔ 1. Git — opcional
+
+Necessário para clonar o repositório. Também podes descarregar o projecto em formato ZIP.
+
+- [Descarregar Git](https://git-scm.com/)
 
 ### ✔ 2. Editor de Código
 
-- Visual Studio Code – https://code.visualstudio.com  
+- [Visual Studio Code](https://code.visualstudio.com/)
 
-Extensões úteis:
-- Live Server  
+Extensão útil:
 
-### ✔ 3. Navegador moderno  
+- **Live Server** — permite executar o website localmente e actualizar a página durante o desenvolvimento.
+
+### ✔ 3. Navegador Moderno
+
 Chrome, Edge ou Firefox.
 
 ---
 
 ## 📥 Como Instalar
 
-1. Clone o repositório:
+1. Clona o repositório:
+
    ```bash
    git clone https://github.com/denildinis/ipddf.git
+   ```
+
+2. Acede à pasta do projecto:
+
+   ```bash
+   cd ipddf
+   ```
+
+3. Abre a pasta no Visual Studio Code.
+
+Como alternativa, na página do repositório, selecciona **Code → Download ZIP** e extrai os ficheiros para o teu computador.
 
 ---
 
-## 📬 Contato
-Fique à vontade para entrar em contato:
+## ⚙️ Como Usar
 
-- 📧 Email: denildinis1@gmail.com
-- 🔗 LinkedIn: [https://www.linkedin.com/in/denil-dinis-b74937352/](https://www.linkedin.com/in/denil-dinis-b74937352/)
+### Com Live Server
+
+1. Abre a pasta do projecto no Visual Studio Code.
+2. Instala a extensão **Live Server**.
+3. Clica com o botão direito no ficheiro HTML principal.
+4. Selecciona **Open with Live Server**.
+
+### Directamente no Navegador
+
+Abre o ficheiro HTML principal no navegador e utiliza o menu para explorar as páginas e secções do website.
+
+---
+
+## 📬 Contacto
+
+Desenvolvido por **Denil Dinis**.
+
+Fica à vontade para entrar em contacto:
+
+- 📧 **Email:** [denildinis1@gmail.com](mailto:denildinis1@gmail.com)
+- 🔗 **LinkedIn:** [Denil Dinis](https://www.linkedin.com/in/denil-dinis-b74937352/)
 
 ---
 
