@@ -1,12 +1,18 @@
-# IPDF — Website Institucional
+# IPDDF — Website Institucional
 
-Website institucional desenvolvido como caso de estudo para o Instituto Politécnico Dona Irma Franklin, uma instituição de ensino médio. O projecto apresenta informações sobre a escola, os cursos, as instalações e os contactos.
+## 📌 Sobre o Projeto
+
+Website institucional desenvolvido como caso de estudo para o Instituto Politécnico Dom Damião Franklin, uma instituição de ensino médio. O projecto apresenta informações sobre a escola, os cursos, as instalações e os contactos.
 
 > Este é um projecto de estudo e portefólio, sem vínculo oficial com a instituição.
+
+---
 
 ## Objectivo
 
 Aplicar conhecimentos de desenvolvimento front-end na criação de um website institucional, com foco na organização dos conteúdos, na identidade visual e na adaptação a diferentes tamanhos de ecrã.
+
+---
 
 ## Páginas e secções
 
@@ -18,21 +24,15 @@ Aplicar conhecimentos de desenvolvimento front-end na criação de um website in
 - Blog
 - Contactos
 
-## Funcionalidades
+---
 
-- Layout responsivo para computadores, tablets e telemóveis.
-- Carrossel de imagens na página inicial.
-- Apresentação dos cursos em cartões deslizantes.
-- Secção de instalações e infraestruturas.
-- Área de notícias e actividades escolares.
-- Informações de contacto e localização.
-- Efeitos de interacção e transições com CSS e JavaScript.
+## 🛠 Tecnologias Utilizadas
 
-## Tecnologias utilizadas
+- **HTML5** - estrutura das páginas.
+- **CSS3** - estilos e responsividade.
+- **JavaScript** - interactividade e controlo dos carrosséis.
 
-- **HTML5** — estrutura das páginas.
-- **CSS3** — estilos e responsividade.
-- **JavaScript** — interactividade e controlo dos carrosséis.
+---
 
 ## Aprendizagens
 
@@ -45,14 +45,46 @@ Este projecto permitiu aprofundar conhecimentos em:
 - Desenvolvimento de carrosséis com JavaScript.
 - Organização de ficheiros HTML, CSS e JavaScript.
 
-## Como executar
+---
 
-1. Descarrega ou clona este repositório.
-2. Abre a pasta do projecto no Visual Studio Code.
-3. Abre a página HTML principal no navegador ou utiliza a extensão Live Server.
+## 🧰 Pré-requisitos
 
-## Autor
+Antes de executar o projeto, instale as seguintes ferramentas:
 
-Desenvolvido por **Denil Dinis**.
+### ✔ 1. Git  
+https://git-scm.com  
 
-[LinkedIn](https://www.linkedin.com/in/denildinis/)
+### ✔ 2. Editor de Código
+
+- Visual Studio Code – https://code.visualstudio.com  
+
+Extensões úteis:
+- Live Server  
+
+### ✔ 3. Navegador moderno  
+Chrome, Edge ou Firefox.
+
+---
+
+## 📥 Como Instalar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/denildinis/ipddf.git
+
+---
+
+## 📬 Contato
+Fique à vontade para entrar em contato:
+
+- 📧 Email: denildinis1@gmail.com
+- 🔗 LinkedIn: [https://www.linkedin.com/in/denil-dinis-b74937352/](https://www.linkedin.com/in/denil-dinis-b74937352/)
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob os termos da **Licença MIT**.  
+Você pode visualizar o texto completo da licença no arquivo:
+
+👉 **[Ver Licença MIT](./LICENSE)**
